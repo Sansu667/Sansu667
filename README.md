@@ -42,5 +42,5 @@ If you have an interesting idea, feel free to reach out!
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/santiago-suarez-572379210/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/santiago-suarez-572379210/)
 - Email: [sansu801@gmail.com](mailto:sansu801@gmail.com)
