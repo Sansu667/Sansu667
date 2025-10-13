@@ -1,46 +1,91 @@
-# 👋 Hi! I'm Edgar Santiago Suarez Alzate
+# 👋 Hi, I'm **Edgar Santiago Suárez Alzate**
 
-Welcome to my GitHub profile! Here you'll find a collection of projects reflecting my passion for programming and technology in general.
+Welcome to my GitHub profile!  
+I’m a **Data Analyst** and **Junior Data Scientist** passionate about transforming data into insights and building solutions that connect technology, logic, and creativity.
+
+---
 
 ## 🚀 About Me
 
-I am a developer focused on **Python** and **Java**, passionate about creating practical and elegant solutions. I also study philosophy at National University of Colombia, which complements my analytical and logic approach to complex problems.
+🎓 I’m currently studying **Statistics** and **Philosophy** at the *National University of Colombia*.  
+This unique combination gives me both **quantitative precision** and **critical thinking**, allowing me to approach data problems logically and creatively.
 
-## 💻 What I Do
+💡 I specialize in **data analysis, automation, and visualization**, using tools such as **Python, SQL, and Power BI**.  
+I’m also expanding my knowledge in **Machine Learning** and **Data Engineering**.
 
-- Develop interactive and responsive web applications.
-- Create projects integrating **HTML**, **CSS**, and **JavaScript**.
-- Build **Python** and **Java** projects for automation and analysis.
-- Explore philosophical concepts applied to technology and artificial intelligence.
+---
 
-## 🌱 Currently Working On:
+## 💻 Tech Stack & Tools
 
-- My personal portfolio showcasing programming and philosophy projects.
-- Projects combining my interests in technology and philosophy of mind.
-- Logic System and Sansu.Inc.
+| Area | Technologies |
+|------|---------------|
+| **Programming** | Python 🐍, JavaScript ⚡, SQL 💾 |
+| **Data & ML** | Pandas, NumPy, Scikit-learn, Matplotlib |
+| **Visualization** | Power BI 📊, Tableau, Excel Advanced |
+| **Databases** | MySQL, PostgreSQL |
+| **Dev Tools** | Git, GitHub, Jupyter Notebook, VS Code |
+| **Concepts** | ETL, Data Cleaning, Predictive Modeling, Automation |
 
-## 📌 Highlights
+---
 
-- 🔗 [My Portfolio Website](https://sansu-portfolio.vercel.app/)
+## 📈 Featured Projects
 
-## 🎯 My Goals
+### 🪙 **Dogecoin Price Predictor (Machine Learning)**
+> Developed a weekly price prediction model using machine learning (Random Forest, Gradient Boosting, Ridge).  
+> Built a full pipeline: data extraction via CoinGecko API → model training → evaluation and visualization.  
+**Tech:** Python, Pandas, Scikit-learn, Matplotlib, Requests, CoinGecko API  
+**Result:** Random Forest model achieved an RMSE of ~19.7%  
 
-1. Achieve professional-level skills in Python and Java development.
-2. Expand my knowledge of AI and programming.
-3. Connect with a global community of developers and thinkers.
-4. Improve my English skills.
+🔗 [View Project](https://github.com/Sansu667/DogecoinPricePredictor)  
 
-## 🤝 Let's Collaborate!
+---
 
-I'm open to collaborations on projects related to:
+### 📊 **Academic Performance Dashboard**
+> Designed a BI dashboard integrating SQL and Excel data to monitor academic performance.  
+**Result:** Helped detect 15% of students at academic risk and reduced reporting time significantly.  
+**Tech:** Power BI, SQL, Excel Advanced  
 
-- **Web Development**
-- **Philosophy Applied to Technology**
-- **Artificial Intelligence and Blockchain Projects**
+🔗 [View Project on Portfolio](https://sansu-portfolio.vercel.app/)
 
-If you have an interesting idea, feel free to reach out!
+---
+
+## 🧠 What I’m Working On
+
+- Building new **data-driven applications** with Python and Power BI  
+- Expanding my knowledge in **Machine Learning** and **AI**  
+- Exploring intersections between **Philosophy of Mind** and **Artificial Intelligence**  
+- Developing **Sansu.Inc**, my personal tech initiative for open-source data tools  
+
+---
+
+## 🎯 Goals
+
+1. Master data analysis and predictive modeling in Python  
+2. Strengthen my expertise in SQL and business intelligence  
+3. Collaborate on open-source AI and analytics projects  
+4. Build impactful data-driven portfolios for social and educational improvement  
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to collaborating on projects related to:
+- **Data Analytics**
+- **Machine Learning**
+- **Web Data Visualization**
+- **AI Ethics & Philosophy of Mind**
+
+If your project aligns with data, logic, or innovation — let’s connect!
+
+---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/edgar-santiago-suarez-alzate-572379210/)
-- Email: [sansu801@gmail.com](mailto:sansu801@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/edgar-santiago-suarez-alzate-572379210/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-9cf?logo=vercel&style=for-the-badge)](https://sansu-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-sansu801%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:sansu801@gmail.com)
+
+---
+
+⭐ **"Data is the language of the future — and I’m learning to speak it fluently."**
+
