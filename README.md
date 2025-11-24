@@ -7,11 +7,11 @@ I’m a **Data Analyst** and **Junior Data Scientist** passionate about transfor
 
 ## 🚀 About Me
 
-[cite_start]🎓 I’m currently studying **Statistics** and **Philosophy** at the *National University of Colombia*[cite: 1].  
+🎓 I’m currently studying **Statistics** and **Philosophy** at the *National University of Colombia*.  
 This unique combination gives me both **quantitative precision** and **critical thinking**, allowing me to approach data problems logically and creatively.
 
-[cite_start]💡 I specialize in **data analysis, automation, and visualization**, using tools such as **Python, SQL, and Power BI**[cite: 1].  
-[cite_start]I’m also expanding my knowledge in **Machine Learning** and **Data Engineering**[cite: 1].
+💡 I specialize in **data analysis, automation, and visualization**, using tools such as **Python, SQL, and Power BI**.  
+I’m also expanding my knowledge in **Machine Learning** and **Data Engineering**.
 
 ---
 
@@ -50,11 +50,11 @@ This unique combination gives me both **quantitative precision** and **critical 
 ---
 
 ### 🏆 **Análisis del Desempeño de Bilibili Gaming - Worlds 2024**
-> [cite_start]Proyecto de **análisis estadístico exhaustivo** sobre el desempeño de **Bilibili Gaming (BLG)** en el **League of Legends World Championship 2024**[cite: 1]. [cite_start]Se utilizaron técnicas de **estadística inferencial (ANOVA, Tukey HSD, Intervalos de Confianza)** y **modelado predictivo (Regresión Lineal Múltiple, Árboles de Decisión)** para identificar los factores clave que influyeron en sus resultados[cite: 1].
-> **Conclusión Clave:** BLG demostró un **perfil estadístico de campeón**, con KDA superior al promedio y eficiencia normal. [cite_start]Su derrota se atribuyó a **factores intangibles** (estrategia, ejecución)[cite: 1].
+> Proyecto de **análisis estadístico exhaustivo** sobre el desempeño de **Bilibili Gaming (BLG)** en el **League of Legends World Championship 2024**. Se utilizaron técnicas de **estadística inferencial (ANOVA, Tukey HSD, Intervalos de Confianza)** y **modelado predictivo (Regresión Lineal Múltiple, Árboles de Decisión)** para identificar los factores clave que influyeron en sus resultados.
+> **Conclusión Clave:** BLG demostró un **perfil estadístico de campeón**, con KDA superior al promedio y eficiencia normal. Su derrota se atribuyó a **factores intangibles** (estrategia, ejecución).
 
 **Tech:** R, Knime/LaTeX, ANOVA, Tukey HSD, Regresión Lineal, Árboles de Decisión
-[cite_start]**Result:** Se confirmó que el **KDA** es el predictor más fuerte de victoria, y se creó la métrica personalizada de **Eficiencia de Recursos**[cite: 1].
+**Result:** Se confirmó que el **KDA** es el predictor más fuerte de victoria, y se creó la métrica personalizada de **Eficiencia de Recursos**.
 
 🔗 [View Report](https://github.com/Sansu667/informe_esf)
 
