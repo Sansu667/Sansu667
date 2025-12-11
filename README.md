@@ -40,15 +40,6 @@ I’m also expanding my knowledge in **Machine Learning** and **Data Engineering
 
 ---
 
-### 📊 **Academic Performance Dashboard**
-> Designed a BI dashboard integrating SQL and Excel data to monitor academic performance.  
-**Result:** Helped detect 15% of students at academic risk and reduced reporting time significantly.  
-**Tech:** Power BI, SQL, Excel Advanced  
-
-🔗 [View Project on Portfolio](https://sansu-portfolio.vercel.app/)
-
----
-
 ### 🏆 **Análisis del Desempeño de Bilibili Gaming - Worlds 2024**
 > Proyecto de **análisis estadístico exhaustivo** sobre el desempeño de **Bilibili Gaming (BLG)** en el **League of Legends World Championship 2024**. Se utilizaron técnicas de **estadística inferencial (ANOVA, Tukey HSD, Intervalos de Confianza)** y **modelado predictivo (Regresión Lineal Múltiple, Árboles de Decisión)** para identificar los factores clave que influyeron en sus resultados.
 > **Conclusión Clave:** BLG demostró un **perfil estadístico de campeón**, con KDA superior al promedio y eficiencia normal. Su derrota se atribuyó a **factores intangibles** (estrategia, ejecución).
