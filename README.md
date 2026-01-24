@@ -1,16 +1,16 @@
 # 👋 Hi, I'm **Edgar Santiago Suarez Alzate**
 
 Welcome to my GitHub profile!  
-I’m a **Data Analyst** and **Junior Data Scientist** passionate about transforming data into insights and building solutions that connect technology, logic, and creativity.
+I’m a **Data Analyst** and **Software Developer** passionate about transforming data into insights and building solutions that connect technology, logic, and creativity.
 
 ---
 
 ## 🚀 About Me
 
-🎓 I’m currently studying **Statistics** and **Philosophy** at the *National University of Colombia*.  
+I’m currently studying **Statistics** and **Philosophy** at the *National University of Colombia*. Additionaly, I am studying a technology degree in software analysis and development at SENA.
 This unique combination gives me both **quantitative precision** and **critical thinking**, allowing me to approach data problems logically and creatively.
 
-💡 I specialize in **data analysis, automation, and visualization**, using tools such as **Python, SQL, and Power BI**.  
+I specialize in **data analysis, automation, and visualization**, using tools such as **Python, SQL, and Power BI**.  
 I’m also expanding my knowledge in **Machine Learning** and **Data Engineering**.
 
 ---
@@ -19,9 +19,9 @@ I’m also expanding my knowledge in **Machine Learning** and **Data Engineering
 
 | Area | Technologies |
 |------|---------------|
-| **Programming** | Python 🐍, JavaScript ⚡, SQL 💾 |
+| **Programming** | Python, JavaScript, SQL |
 | **Data & ML** | Pandas, NumPy, Scikit-learn, Matplotlib, R |
-| **Visualization** | Power BI 📊, Tableau, Excel Advanced |
+| **Visualization** | Power BI, Tableau, Excel Advanced |
 | **Databases** | MySQL, PostgreSQL |
 | **Dev Tools** | Git, GitHub, Jupyter Notebook, VS Code, R Studio |
 | **Concepts** | ETL, Data Cleaning, Predictive Modeling, Automation |
@@ -30,24 +30,23 @@ I’m also expanding my knowledge in **Machine Learning** and **Data Engineering
 
 ## 📈 Featured Projects
 
-### 🪙 **Dogecoin Price Predictor (Machine Learning)**
-> Developed a weekly price prediction model using machine learning (Random Forest, Gradient Boosting, Ridge).  
-> Built a full pipeline: data extraction via CoinGecko API → model training → evaluation and visualization.  
-**Tech:** Python, Pandas, Scikit-learn, Matplotlib, Requests, CoinGecko API  
-**Result:** Random Forest model achieved an RMSE of ~19.7%  
+### **Analysis of Bilibili Gaming's Performance - Worlds 2024**
+> Comprehensive statistical analysis of Bilibili Gaming's (BLG) performance at the 2024 League of Legends World Championship. Inferential statistics (ANOVA, Tukey HSD, Confidence Intervals) and predictive modeling (Multiple Linear Regression, Decision Trees) techniques were used to identify the key factors influencing their results.
 
-🔗 [View Project](https://github.com/Sansu667/DogecoinPricePredictor)  
+> Key Conclusion: BLG demonstrated a champion-level statistical profile, with above-average KDA and average efficiency. Their defeat was attributed to intangible factors (strategy, execution).
 
----
-
-### 🏆 **Análisis del Desempeño de Bilibili Gaming - Worlds 2024**
-> Proyecto de **análisis estadístico exhaustivo** sobre el desempeño de **Bilibili Gaming (BLG)** en el **League of Legends World Championship 2024**. Se utilizaron técnicas de **estadística inferencial (ANOVA, Tukey HSD, Intervalos de Confianza)** y **modelado predictivo (Regresión Lineal Múltiple, Árboles de Decisión)** para identificar los factores clave que influyeron en sus resultados.
-> **Conclusión Clave:** BLG demostró un **perfil estadístico de campeón**, con KDA superior al promedio y eficiencia normal. Su derrota se atribuyó a **factores intangibles** (estrategia, ejecución).
-
-**Tech:** R, Knime/LaTeX, ANOVA, Tukey HSD, Regresión Lineal, Árboles de Decisión
-**Result:** Se confirmó que el **KDA** es el predictor más fuerte de victoria, y se creó la métrica personalizada de **Eficiencia de Recursos**.
+**Technique:** R, Knime/LaTeX, ANOVA, Tukey HSD, Linear Regression, Decision Trees
+**Result:** The **KDA** was confirmed as the strongest predictor of win, and a custom **Resource Efficiency** metric was created.
 
 🔗 [View Report](https://github.com/Sansu667/informe_esf)
+
+---
+### **Colombian Laboratory of Philosophy of Mathematics**
+> Official website of the Colombian Laboratory of Philosophy of Mathematics, which was created with the aim of establishing an **inclusive space** for critical dialogue on the **conceptual foundations of mathematics**. We bring together people with diverse academic and professional backgrounds, from mathematicians and philosophers to students and professionals from other disciplines with an interest in the subject.
+
+> **Full-stack** development (HTML/CSS/JS) with **responsive design**, **SEO optimization**, and custom **database management**.
+
+🔗 [View Page](https://filo-matematicas.vercel.app/)
 
 ---
 
@@ -55,7 +54,7 @@ I’m also expanding my knowledge in **Machine Learning** and **Data Engineering
 
 - Building new **data-driven applications** with Python and Power BI  
 - Expanding my knowledge in **Machine Learning** and **AI**  
-- Exploring intersections between **Philosophy of Mind** and **Artificial Intelligence**  
+- Exploring intersections between **Philosophy of Mind**, **Philosophy of Language** and **Artificial Intelligence**  
 - Developing **Sansu.Inc**, my personal tech initiative for open-source data tools  
 
 ---
